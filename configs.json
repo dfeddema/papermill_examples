@@ -1,0 +1,17 @@
+{
+	"config_bank": {
+		"notebook": "notebooks/matrix_mult.ipynb",
+		"dim": "5000",
+		"output_label": "small"
+	},
+	"config_adult": {
+		"notebook": "notebooks/matrix_mult.ipynb",
+		"dim": "50000",
+		"output_label": "medium"
+	},
+	"config_titanic": {
+		"notebook": "notebooks/matrix_mult.ipynb",
+		"dim": "70000",
+		"output_label": "large"
+	}
+}
